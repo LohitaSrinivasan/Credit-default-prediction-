@@ -14,7 +14,7 @@ Step-3: Dummy variables are created for categorical variables.
 
 Step-4: Checked for correlation among predictors and new features are added.
 
-Train Test split
+# Train Test split
 Step-5: Data is divided into train (70%) and validation (30%) sets. Stratified sampling is performed as the data is imbalanced with less defaulted observations.
 
 # Modeling
